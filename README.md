@@ -1,4 +1,4 @@
-# Hi, I'm Hitesh Choudhary 👋
+# Hi, I'm Hitesh 👋
 
 Software Developer | AI Enthusiast | Full Stack Developer
 
@@ -29,10 +29,10 @@ Backend:
 Node.js • Express
 
 Database:
-MongoDB • MySQL
+MongoDB • PostgreSQL
 
 Tools:
-Git • GitHub • Linux
+Git • GitHub • 
 
 ## Featured Projects
 
@@ -50,6 +50,6 @@ Git • GitHub • Linux
 
 ## Contact
 
-LinkedIn
-Portfolio
-Email
+LinkedIn = https://www.linkedin.com/in/hitesh-choudhary-26a177280/
+Portfolio = 
+Email = hiteshchuudhary738@gmail.com
