@@ -10,10 +10,9 @@ Software Developer | AI Enthusiast | Full Stack Developer
 - Artificial Intelligence
 - Data Structures & Algorithms
 - IoT Systems
-- Geoscience Software
+
 
 🚀 Currently Building:
-- Deepfake Detection Platform
 - Well Log Interpretation Software
 - Full Stack Applications
 
@@ -36,7 +35,7 @@ Git • GitHub •
 
 ## Featured Projects
 
-🔹 Deepfake Detection System
+
 
 🔹 Well Log Interpretation Software
 
