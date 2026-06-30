@@ -51,4 +51,5 @@ Git • GitHub •
 
 LinkedIn = https://www.linkedin.com/in/hitesh-choudhary-26a177280/
 Portfolio = 
-Email = hiteshchuudhary738@gmail.com
+Email = hiteshchoudhary738@gmail.com
+![](https://komarev.com/ghpvc/?username=hiteshchoudhary738-alt&label=Profile%20Views&color=0e75b6&style=flat)
