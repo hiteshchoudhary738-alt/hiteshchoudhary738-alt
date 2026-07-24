@@ -3,7 +3,7 @@
 Software Developer | AI Enthusiast | Full Stack Developer
 
 ## About Me
-🎓 B.Tech Student
+🎓 B.Tech in Information Technology Student
 
 💡 Interested in:
 - Full Stack Development
