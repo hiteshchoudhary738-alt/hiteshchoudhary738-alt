@@ -1,11 +1,11 @@
-# Hi, I'm Hitesh 👋
+# Hi, I'm Hitesh 
 
 Software Developer | AI Enthusiast | Full Stack Developer
 
 ## About Me
-🎓 B.Tech in Information Technology Student
+ B.Tech in Information Technology 
 
-💡 Interested in:
+## Interested in:
 - Full Stack Development
 - Artificial Intelligence
 - Data Structures & Algorithms
@@ -14,7 +14,7 @@ Software Developer | AI Enthusiast | Full Stack Developer
 ## Skills
 
 Languages:
-Python • C++ • JavaScript
+Python • C++ • JavaScript • C
 
 Frontend:
 React • HTML • CSS • Tailwind
