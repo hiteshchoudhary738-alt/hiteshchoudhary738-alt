@@ -2,7 +2,7 @@
 
 <!-- Animated typing introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B8CFF&center=true&vCenter=true&width=700&lines=IT+Undergraduate+%40+RGIPT;Full+Stack+Developer;Problem+Solver+%26+Tech+Enthusiast;Exploring+AI+%26+Sports+Technology;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9B8CFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver+%26+Tech+Enthusiast;Exploring+AI+%26+Sports+Technology;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 <p align="center">
