@@ -9,15 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header" width="100%"/>
 </p>
 
-##  About Me
-
--  IT Undergraduate at **RGIPT**
--  Interested in Full-Stack Development & Software Engineering
--  Practicing Data Structures & Algorithms
--  Building projects and exploring new technologies
--  Interested in AI, Data Science & Sports Technology
--  Always learning, building and improving.
-
 ##  Tech Arsenal
 
 <p align="center">
@@ -41,12 +32,6 @@ const Hitesh = {
 };
 ```
 
-##  Watch My Contributions Get Eaten!
-
-<p align="center">
-  <img src="https://github.com/hiteshchoudhary738-alt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ##  Connect With Me
 
 <p align="center">
@@ -66,3 +51,7 @@ const Hitesh = {
   <b>Thanks for visiting! </b><br/>
   <i>Code • Learn • Build • Repeat</i>
 </p>
+
+<h5>
+  <img src="https://komarev.com/ghpvc/?username=hiteshchoudhary738-alt&color=blue" alt="Profile Views">
+</h5>
